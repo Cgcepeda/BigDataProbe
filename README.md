@@ -14,3 +14,4 @@ Las funciones presentes por la clase Polinomio son:
 -evaluate: Para evaluar una constante enel polinomio. Se debe ingresar la constante a evaluar.
 
 Finalmente, el archivo BigData.py resuelve el problema de Spark implementando PandasDataFrames como un bonus, el ejercicio pedido implementando spark se encuentra en el siguiente Notebook:
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/990941138329084/2679426951326563/3385015214621116/latest.html
